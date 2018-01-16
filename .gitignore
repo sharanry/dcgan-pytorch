@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 data/
 checkpoint.pth.tar
+DCGAN_MNIST_results/
+
